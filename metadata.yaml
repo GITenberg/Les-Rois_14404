@@ -1,0 +1,31 @@
+_repo: Les-Rois_14404
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lemaître, Jules
+    alias: Lemaitre, Jules
+    birthdate: 1853
+    deathdate: 1914
+    gutenberg_agent_id: '5505'
+    url: http://www.gutenberg.org/2009/agents/5505
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Lema%C3%AEtre
+    - http://fr.wikipedia.org/wiki/Jules_Lemaitre
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14404'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction'
+- !lcc 'PQ'
+title: Les Rois
+url: http://www.gutenberg.org/ebooks/14404
